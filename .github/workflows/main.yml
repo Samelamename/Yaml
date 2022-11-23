@@ -13,4 +13,4 @@ jobs:
    - run: touch hello.txt
    - run: echo "Hello world" >> hello.txt
    - run: cat *
-   - run: cat whoami
+   - run: whoami
